@@ -1,4 +1,4 @@
-## 📦 Quick Install
+
 
 ### PY
 ```bash
@@ -29,7 +29,7 @@ conda create -n engineering-lab python=3.10
 conda activate engineering-lab
 
 # Instalar pacotes científicos
-conda install numpy scipy pandas matplotlib opencv-python mediapipe
+conda install numpy scipy pandas matplotlib opencv-python mediapipe ultralytics
 
 # ---------------------------
 # 2️⃣ Arduino CLI
