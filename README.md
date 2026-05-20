@@ -1,4 +1,4 @@
-# LAB## 📦 Quick Install
+## 📦 Quick Install
 
 ### PY
 ```bash
